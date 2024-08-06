@@ -28,7 +28,7 @@ iframe {
 }
 .rectangle-back{
     width: 850px;
-    height: 1150px;
+    height: 9999px;
     overflow:hidden;
     background-color: cornsilk;
     z-index: -1;
